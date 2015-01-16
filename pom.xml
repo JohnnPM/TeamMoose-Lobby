@@ -42,15 +42,6 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!-- ServerPinger -->
-		<dependency>
-			<groupId>com.samczsun.serverpinger</groupId>
-			<artifactId>ServerPinger</artifactId>
-			<version>0.0.0</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/lib/ServerPinger.jar</systemPath>
-		</dependency>
-
 	</dependencies>
 
 	<build>
